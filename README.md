@@ -6,7 +6,7 @@ A full-stack developer with hands-on experience in building websites and mobile 
 ### 📬 How to reach me
 - Email: ipshitabaral6@gmail.com
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
 - 💼 **LinkedIn:** [ipshita](https://www.linkedin.com/)
 - 🧩 **LeetCode:** [ipshitabaral](https://leetcode.com/u/ipshitabaral/)
