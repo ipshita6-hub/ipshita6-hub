@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there👋, I'm Ipshita — Learning, Experimenting and Improving ✨
 
-<!--
-**ipshita6-hub/ipshita6-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack developer with hands-on experience in building websites and mobile applications using React, React Native, and Tailwind CSS. Comfortable working with JavaScript, TypeScript and Python, and regularly practicing Data Structures & Algorithms to strengthen problem-solving skills. Enjoys turning ideas into functional products, experimenting with modern technologies, and continuously improving through real-world projects. Curious, consistent, and always focused on learning by building.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 How to reach me
+- Email: ipshitabaral6@gmail.com
+
+### 🤝 Connect with me
+[LinkedIn](https://www.linkedin.com/in/your-link) 
+[GitHub](https://github.com/ipshita6-hub)
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,nodejs,mongodb,mysql,firebase,java,docker,postman&theme=dark" 
+  />
+</p>
