@@ -3,7 +3,7 @@
 A full-stack developer with hands-on experience in building websites and mobile applications using React, React Native, and Tailwind CSS. Comfortable working with JavaScript, TypeScript and Python, and regularly practicing Data Structures & Algorithms to strengthen problem-solving skills. Enjoys turning ideas into functional products, experimenting with modern technologies, and continuously improving through real-world projects. Curious, consistent, and always focused on learning by building.
 
 
-### 📬 How to reach me
+### 📬 How To Reach Me
 - Email: ipshitabaral6@gmail.com
 
 ### 🔗 Connect With Me
@@ -12,7 +12,6 @@ A full-stack developer with hands-on experience in building websites and mobile 
 - 🧩 **LeetCode:** [ipshitabaral](https://leetcode.com/u/ipshitabaral/)
 - 💻 **GitHub:** [ipshita6-hub](https://github.com/ipshita-6-hub)
 
----
 
 ### 🛠️ Languages and Tools:
 <p align="left">
