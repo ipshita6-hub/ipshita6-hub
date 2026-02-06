@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>• Full-stack and AI/ML projects using React, Node.js, MongoDB, and Python  <br><br>👯 I’m looking to collaborate on  <br>• Open-source projects, ML applications, and beginner-friendly hackathons  <br><br>🤝 I’m looking for help with  <br>• Improving ML model performance and scalable backend design  <br><br>🌱 I’m currently learning  <br>• Advanced React, Machine Learning algorithms, and system design basics  <br><br>💬 Ask me about  <br>• React projects, ML fundamentals, GitHub workflows, or project structuring  <br><br>⚡ Fun fact  <br>• I enjoy turning class assignments into real-world projects 🚀<br>
+🔭 I’m currently working on  <br> Full-stack and AI/ML projects using React, Node.js, MongoDB, and Python  <br><br>👯 I’m looking to collaborate on  <br> Open-source projects, ML applications, and beginner-friendly hackathons  <br><br>🤝 I’m looking for help with  <br> Improving ML model performance and scalable backend design  <br><br>🌱 I’m currently learning  <br> Advanced React, Machine Learning algorithms, and system design basics  <br><br>💬 Ask me about  <br> React projects, ML fundamentals, GitHub workflows, or project structuring  <br><br>⚡ Fun fact  <br> I enjoy turning class assignments into real-world projects 🚀<br>
 
 
 ## 🌐 Socials:
